@@ -1,6 +1,6 @@
 📊 Swiggy Sales Analysis Dashboard (Excel , Power BI)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📌 Project Overview
@@ -8,7 +8,7 @@
 This project analyzes Swiggy sales data using Microsoft Excel to extract meaningful business insights through KPI calculations, data cleaning, and an interactive dashboard.
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Tools Used
 
