@@ -18,7 +18,7 @@ This project analyzes Swiggy sales data using Microsoft Excel to extract meaning
 
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📈 Key Features
 
@@ -30,7 +30,7 @@ Interactive Excel dashboard
 
 Sales trend analysis
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -44,7 +44,7 @@ Standardized date and numeric formats
 
 Created calculated columns and KPI metrics
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -58,7 +58,7 @@ High-performing products and regions
 
 Key business KPIs at a glance
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -68,7 +68,7 @@ Key business KPIs at a glance
 The dashboard enables stakeholders to quickly understand sales performance and supports data-driven decision making.
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -76,7 +76,7 @@ The dashboard enables stakeholders to quickly understand sales performance and s
 
 -DATA-Swiggy Raw Data Excel.xlsx
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📸 Dashboard Preview
