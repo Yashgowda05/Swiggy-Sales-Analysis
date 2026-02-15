@@ -72,13 +72,13 @@ The dashboard enables stakeholders to quickly understand sales performance and s
 
 
 
-📎 Project Files
+📎 Project File:
 
--DATA-Swiggy Raw Data Excel.xlsx
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📸 Dashboard Preview
 
--DASHBOARD-dashboard
+
