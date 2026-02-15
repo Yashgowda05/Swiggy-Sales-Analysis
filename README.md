@@ -75,7 +75,7 @@ The dashboard enables stakeholders to quickly understand sales performance and s
 📎 Project File:
 
 
-[Swiggy.Raw.Data.Excel.xlsx](url)
+[Swiggy.Raw.Data.Excel.xlsx](url)(https://github.com/Yashgowda05/Swiggy-Sales-Analysis/blob/main/Swiggy.Raw.Data.Excel.xlsx)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
