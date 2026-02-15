@@ -84,6 +84,7 @@ The dashboard enables stakeholders to quickly understand sales performance and s
 
 📸 Dashboard Preview
 
+![image alt](https://github.com/Yashgowda05/Swiggy-Sales-Analysis/blob/main/Screenshot%202026-02-15%20123255.png?raw=true)
 
 
 
